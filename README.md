@@ -41,3 +41,5 @@ Like Kerbal Space Program, but with less realistic physics and more violence.
 An RPG based on falling sand games. (Totally not a Noita clone)
 ### Tank Game
 Like Worms, but perhaps with a CA physics engine.
+### Some sort of typing game
+Something like bisqwit's?
