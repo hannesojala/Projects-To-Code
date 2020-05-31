@@ -29,6 +29,8 @@ Generates a dungeon, perhaps for a table top role playing game.
 A simulation like Game of Life, but instead of a cellular automata it is implemented as a particle-force simulation.
 ### Multi Level Generation
 Generates a universe with many orders of magnitude of detail. (Such as human scale to galactic scale)
+### BOIDS Simulation
+Bird-like... things.. do stuff...
 
 # Games
 ### Console tetris
