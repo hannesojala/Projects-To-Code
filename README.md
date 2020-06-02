@@ -17,7 +17,10 @@ Traces for more than just spheres.
 ### NBody 2D/3D
 Simulates 2D N-Body interactions. O(n<sup>2</sup>) is not good enough!
 - Use Barnes-Hut simulation algorithm or
-- Use Fast Multipole method
+- Use Fast Multipole method or
+- Use Particle Mesh Method or
+- Some algorithm using trees/meshes/multipoles like the above alorithms.
+- Resources: http://www.cs.cmu.edu/afs/cs/academic/class/15850c-s96/www/nbody.html
 ### Image to ASCII
 Create an ascii image from a pixel image.
 ### Marching Cubes Demo
