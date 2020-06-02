@@ -6,6 +6,7 @@ A list of projects that will one day be started and inevitably abandoned.
 Website with animations to visualize algorithms on basic data structures such as trees, graphs, lists, and other data structures.
 ### 3D Rendering engine
 Engine to render 3D meshes with texture and shaders using OpenGL, Vulkan, or DirectX.
+- Extension: Non Euclidean Engine - Renders non Euclidean geometry
 ### Neural Network that does... something
 Hopefully something at least a little new.
 ### Ray Tracer
