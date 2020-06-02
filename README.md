@@ -15,7 +15,9 @@ Traces for more than just spheres.
 
 # Little things
 ### NBody 2D/3D
-Simulates 2D N-Body interactions with a quadtree, or 3D with an octree. O(n<sup>2</sup>) is not good enough!
+Simulates 2D N-Body interactions. O(n<sup>2</sup>) is not good enough!
+- Use Barnes-Hut simulation algorithm or
+- Use Fast Multipole method
 ### Image to ASCII
 Create an ascii image from a pixel image.
 ### Marching Cubes Demo
