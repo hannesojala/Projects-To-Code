@@ -65,3 +65,5 @@ An RPG based on falling sand games. (Totally not a Noita clone)
 Like Worms, but perhaps with a CA physics engine like above.
 ### Some sort of typing game
 Something like bisqwit's?
+### Terraria Mod C#
+See tModLoader documentation.
