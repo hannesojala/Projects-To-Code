@@ -45,6 +45,10 @@ A simulation like Game of Life, but instead of a cellular automata it is impleme
 Generates a universe with many orders of magnitude of detail. (Such as human scale to galactic scale)
 ### BOIDS Simulation
 Bird-like... things.. do stuff...
+### Sudoku Solver
+Solves Sudoku puzzles.
+### Pathfinding demo
+Demos various pathfinding algorithms.
 
 # Games
 ### Console tetris
