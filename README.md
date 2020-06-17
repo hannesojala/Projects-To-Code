@@ -69,3 +69,5 @@ Like Worms, but perhaps with a CA physics engine like above.
 Something like bisqwit's?
 ### Terraria Mod - C#
 See tModLoader documentation.
+### Menace at Mansion on the Mountain
+Betrayal at House on the Hill ripoff
