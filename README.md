@@ -49,6 +49,8 @@ Bird-like... things.. do stuff...
 Solves Sudoku puzzles.
 ### Pathfinding demo
 Demos various pathfinding algorithms.
+### Eng-To-C++
+Translates english instructions to C++ code
 
 # Games
 ### Console tetris
