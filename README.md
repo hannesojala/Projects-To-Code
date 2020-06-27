@@ -15,6 +15,9 @@ Hopefully something at least a little new.
 ### Ray Tracer - C++
 A 3D renderer that uses ray tracing for soft shadows, global illumination, and reflections.
 - Real time version in 3D Rendering engine?
+### Logic Simulator - C++
+Reads from a text file of logical components and simulates it
+-Optional GUI interface
 
 # Little things
 ### NBody 2D/3D - C++
