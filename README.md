@@ -17,10 +17,13 @@ A 3D renderer that uses ray tracing for soft shadows, global illumination, and r
 - Real time version in 3D Rendering engine?
 ### Logic Simulator - C++
 Reads from a text file of logical components and simulates it
--Optional GUI interface
+- Optional GUI interface
+### ~~CLI File tagging - C++~~ (Started)
+- Allows users to tag files from a shell
+
 
 # Little things
-### NBody 2D/3D - C++
+### ~~NBody 2D~~ (Started) /3D - C++
 Simulates 2D N-Body interactions. O(n<sup>2</sup>) is not good enough!
 - Use Barnes-Hut simulation algorithm or
 - Use Fast Multipole method or
