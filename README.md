@@ -23,7 +23,7 @@ Reads from a text file of logical components and simulates it
 
 
 # Little things
-### ~~NBody 2D~~ (Started) /3D - C++
+### ~~NBody 2D/3D - C++~~ (Started)
 Simulates 2D N-Body interactions. O(n<sup>2</sup>) is not good enough!
 - Use Barnes-Hut simulation algorithm or
 - Use Fast Multipole method or
