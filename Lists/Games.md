@@ -16,6 +16,8 @@
   - Something like bisqwit's?
 - Menace at Mansion on the Mountain
   - Betrayal at House on the Hill ripoff
+- Pokemon clone
+  - I don't like pokemon
 
 ## Game tools
 
