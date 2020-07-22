@@ -59,6 +59,8 @@ Demos various pathfinding algorithms.
 Translates english instructions to C++ code
 
 # Games
+### RPG Engine
+An engine for RPGs with facilities for world generation, characters, and story structures.
 ### Console tetris
 Tetris, but in the terminal. Exciting.
 ### Block Game - C++
