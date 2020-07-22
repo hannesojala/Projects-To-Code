@@ -4,13 +4,13 @@
 
 - Console tetris
   - Tetris, but in the terminal. Exciting.
-- Block Game - C++
+- Block Game
   - A sandbox crafting blo- Ok its a minecraft clone.
-- Space flight Simulator - C++
+- Space flight Simulator
   - Like Kerbal Space Program.
-- Explautoma - C++
+- Explautoma
   - An RPG based on falling sand games. (Totally not a Noita clone)
-- Tank Game - C++
+- Tank Game
   - Like Worms, but perhaps with a CA physics engine like above.
 - Some sort of typing game
   - Something like bisqwit's?
@@ -30,5 +30,5 @@
 
 ## Mods
 
-- Terraria Mod - C#
+- Terraria Mod
   - See tModLoader documentation.
