@@ -1,9 +1,9 @@
 # Graphics Projects
 
 ## Engines
-- ~~3D Renderer~~ - C++ [Started](https://github.com/hannesojala/test3d) - [Restarted]()
+- ~~3D Renderer~~ - C++ [_Started_](https://github.com/hannesojala/test3d) - [_Restarted_]()
   - An engine that renders scenes using OpenGL, Vulkan, or DirectX.
-- Ray Tracer - C++ Started but lost
+- Ray Tracer - C++ _Started but lost_
   - A 3D renderer that uses ray tracing for soft shadows, global illumination, and reflections.
   
  ## Effects
