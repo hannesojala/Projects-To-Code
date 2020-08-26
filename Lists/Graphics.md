@@ -1,7 +1,7 @@
 # Graphics Projects
 
 ## Engines
-- ~~Software 3D Renderer~~ - C++ [_~~Started~~_](https://github.com/hannesojala/test3d) - [_Restarted ]()
+- ~~Software 3D Renderer~~ - C++ [_~~Started~~_](https://github.com/hannesojala/test3d) - [_Restarted_]()
   - An engine that renders scenes on CPU only
 - Graphics API 3D Renderer - C++
   - Hardware accelerated using OpenGL, Vulkan, or DirectX.
