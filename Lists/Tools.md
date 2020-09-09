@@ -10,3 +10,4 @@
   - Translates english instructions to C++ code
 - Sudoku Solver
   - Solves Sudoku puzzles.
+- Error correction codes
