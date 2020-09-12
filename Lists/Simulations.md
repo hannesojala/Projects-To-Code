@@ -6,6 +6,10 @@
     - Resources: http://www.cs.cmu.edu/afs/cs/academic/class/15850c-s96/www/nbody.html
     - Would be cool as an online toy. So not C++.
 - Particle Life
-  - A simulation like Game of Life, but instead of a cellular automata it is implemented as a particle-force simulation.
+  - A simulation like Game of Life, but instead of a cellular automata it is implemented as a particle-force simulation.us
+- Chemistry Simulator
+  - real or analogous
+  - Could result in particle life with certain chemistries
+    - Real chemistry life simulation would be holy grail... (and not likely to be figured out by the lieks of me)
 - BOIDS Simulation
   - Bird-like... things.. do stuff...
