@@ -11,3 +11,6 @@
 - Sudoku Solver
   - Solves Sudoku puzzles.
 - Error correction codes
+  - Examples and transmission simulation
+- Text->Image Image->Text translator. Share books, secrets, etc. in png or other lossless formats
+  - Hide in pixel data or in extra data block options
