@@ -16,3 +16,4 @@
   - Examples and transmission simulation
 - Text->Image Image->Text translator. Share books, secrets, etc. in png or other lossless formats
   - Hide in pixel data or in extra data block options
+- Program to print wikipedia articles to a terminal
