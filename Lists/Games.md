@@ -18,6 +18,8 @@
   - Betrayal at House on the Hill ripoff
 - Pokemon clone
   - I don't like pokemon
+- Plant/Animal breeding with traits
+  - Would be a good feature in a sandbox survival game.
 
 ## Game tools
 
