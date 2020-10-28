@@ -16,3 +16,5 @@
 - Marching Cubes - C++
   - Convert a voxel map into a mesh.
 - Ray Marching - GLSL or similar
+- Shader Playground
+  - Shader generator included
