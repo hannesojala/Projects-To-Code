@@ -13,5 +13,7 @@
     - Real chemistry life simulation would be holy grail... (and not likely to be figured out by the lieks of me)
 - BOIDS Simulation
   - Bird-like... things.. do stuff...
-- Physics Sim askin to Terry Davis' SimStructure
+- Physics Sim akin to Terry Davis' SimStructure
   - Masses and springs, ropes and thrusters
+- Image to sound
+  - Akin to https://www.youtube.com/watch?v=3s7h2MHQtxc
